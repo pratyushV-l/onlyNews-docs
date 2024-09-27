@@ -1,3 +1,3 @@
 Bye World!
 
-{blurb} -  Impsum Lorem Dolor
+Impsum Lorem Dolor
